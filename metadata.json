@@ -1,0 +1,6 @@
+{
+  "name": "HojiiLink Ethiopia",
+  "description": "The leading secure bilingual freelance marketplace connecting Ethiopian professionals with domestic and global clients under smart escrow protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
